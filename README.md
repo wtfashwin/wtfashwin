@@ -16,7 +16,7 @@ Final-year undergraduate at (SPPU). With a solid foundation in programming langu
 ![](https://github-profile-trophy.vercel.app/?username=wtfashwin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wtfashwin&icon=0&color=0)](https://visitcount.itsvg.in)
