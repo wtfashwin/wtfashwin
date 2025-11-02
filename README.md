@@ -1,4 +1,6 @@
-# 💫 Hello, Greetings:I build reliable, high-throughput MLOps and Generative AI platforms engineering robust solutions from prototype to scalable cloud deployment on AWS, Azure, and OCI. My core strength: orchestrating business-critical data & AI pipelines, automating CI/CD for production ML, and delivering resilient systems across multi-cloud environments.
+# 💫 Hello, Greetings:
+
+I build reliable, high-throughput MLOps and Generative AI platforms engineering robust solutions from prototype to scalable cloud deployment on AWS, Azure, and OCI. My core strength: orchestrating business-critical data & AI pipelines, automating CI/CD for production ML, and delivering resilient systems across multi-cloud environments.
 
 Certified by Oracle, Databricks, Astronomer, and KodeKloud in Generative AI, Airflow, Kubernetes, and Data Science. I design high-performance ETL, RAG, agentic orchestration, and real-time Deep Learning (ViT-LSTM CV, XGBoost SHAP for XAI/Fraud Detection) with advanced stack: Snowflake, PySpark, Airflow (Certified), Kafka, Kubernetes/Docker.
 
