@@ -1,5 +1,18 @@
-# 💫 Hello, Greetings:
-With a solid foundation in programming languages like Python, C++, and JavaScript, I specialize in solving complex problems, as evidenced by solving 900+ competitive coding problems.<br><br>I combine expertise in machine learning, web development, and data analysis with practical experience in agile project management. My passion lies in building scalable, user-centric applications, and optimizing system performance. With a contest rating of 1869, I am in the top 3.97% of competitive coders globally in GFG platform<br><br>I am actively seeking opportunities to leverage my technical skills, collaborate with dynamic teams, and contribute to impactful projects
+# 💫 Hello, Greetings:I build reliable, high-throughput MLOps and Generative AI platforms engineering robust solutions from prototype to scalable cloud deployment on AWS, Azure, and OCI. My core strength: orchestrating business-critical data & AI pipelines, automating CI/CD for production ML, and delivering resilient systems across multi-cloud environments.
+
+Certified by Oracle, Databricks, Astronomer, and KodeKloud in Generative AI, Airflow, Kubernetes, and Data Science. I design high-performance ETL, RAG, agentic orchestration, and real-time Deep Learning (ViT-LSTM CV, XGBoost SHAP for XAI/Fraud Detection) with advanced stack: Snowflake, PySpark, Airflow (Certified), Kafka, Kubernetes/Docker.
+
+My achievements include:
+
+Multi-cloud ETL automation integrating Kafka/Snowflake, reducing latency from 30 to 5 mins.
+
+Architected ViT-LSTM pipeline for real-time Computer Vision (SHAR) on Kubernetes.
+
+Built fraud detection dashboards with XGBoost/SHAP/AUC 0.98, deployed via Flask & Power BI.
+
+Ranked Top 9.82% on LeetCode (1700+ problems). Team Lead at Smart India Hackathon.
+
+I'm actively seeking high-impact MLOps Engineer, Data Platform Specialist, or AI/ML Systems Engineer roles global product teams. Let’s connect to talk data ecosystems, ML engineering, and GenAI commercialization.
 
 
 ## 🌐 Socials:
