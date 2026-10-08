@@ -58,3 +58,5 @@ I contribute fixes where correctness, resource use, or security breaks down. **1
 [Full achievement and badge record](ACHIEVEMENTS.md) · Counts checked October 8, 2026; platform profiles carry the latest totals.
 
 I’m interested in AI systems and backend engineering roles where ownership includes system design, implementation, and verification.
+
+[Public profiles and technical writing](https://wtfashwin.github.io/Portfolio/#profiles)
