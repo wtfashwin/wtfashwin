@@ -83,29 +83,38 @@ The 365 Days and 500 Days badges are submission-day milestones, not claims of co
 [Public profile](https://www.kaggle.com/ashwinupadhyay)
 
 - Published notebook: [LLM preference measured CPU baseline](https://www.kaggle.com/code/ashwinupadhyay/llm-preference-measured-cpu-baseline).
-- Profile shows one notebook, one dataset, and two active solo competitions.
+- Public benchmark dataset: [Measured CPU ML benchmarks](https://www.kaggle.com/datasets/ashwinupadhyay/measured-cpu-ml-benchmarks), with 16 verified measurements.
+- Confirmed public scores: LLM Classification Finetuning log loss **1.04297**; Airline Satisfaction ROC AUC **0.95843**. Scores were checked October 8, 2026; they are distinct from validation results.
 - Active competition entries: [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) and [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10).
 
 These are participation and published-work records. No competition medal, leaderboard placement, or Kaggle Expert/Master title is claimed here.
 
 <details>
-<summary>All 15 visible Kaggle profile badges</summary>
+<summary>All 19 confirmed Kaggle badges</summary>
 
-1. 1 Year on Kaggle
-2. 2 Years on Kaggle
-3. Playground Competitor
-4. Code Submitter
-5. Python Coder
-6. API Notebook Creator
-7. Colab Coder
-8. Code Tagger
-9. Notebook Modeler
-10. Dataset Creator
-11. Dataset Tagger
-12. Competition Modeler
-13. Kaggle Community Member
-14. Collector
-15. Bookmarker
+Checked 2026-10-08T15:10:11.154Z against the authenticated [Kaggle badge catalog](https://www.kaggle.com/progression/badges).
+
+| Badge | Award date |
+| --- | --- |
+| 1 Year on Kaggle | 2024-09-13 |
+| 2 Years on Kaggle | 2025-06-01 |
+| Getting Started Competitor | 2026-10-08 |
+| Playground Competitor | 2026-10-08 |
+| Code Submitter | 2026-10-08 |
+| Python Coder | 2024-09-13 |
+| R Coder | 2026-10-08 |
+| API Notebook Creator | 2026-10-08 |
+| Colab Coder | 2026-10-08 |
+| Code Tagger | 2026-10-08 |
+| Notebook Modeler | 2026-10-08 |
+| Dataset Creator | 2024-09-25 |
+| API Dataset Creator | 2026-10-08 |
+| Dataset Tagger | 2026-10-08 |
+| Competition Modeler | 2026-10-08 |
+| Kaggle Community Member | 2023-04-18 |
+| Collector | 2025-01-21 |
+| Bookmarker | 2026-10-08 |
+| Vampire | 2026-10-08 |
 
 </details>
 

@@ -52,7 +52,7 @@ I contribute fixes where correctness, resource use, or security breaks down. **1
 ## Achievements & credentials
 
 - **[LeetCode](https://leetcode.com/u/wtfashwin/):** 923 problems solved, including 155 hard; contest rating 1,752; 32 earned badges.
-- **[Kaggle](https://www.kaggle.com/ashwinupadhyay):** reproducible ML experiments, including an [LLM preference CPU baseline](https://www.kaggle.com/code/ashwinupadhyay/llm-preference-measured-cpu-baseline); 15 profile badges.
+- **[Kaggle](https://www.kaggle.com/ashwinupadhyay):** reproducible ML experiments, including an [LLM preference CPU baseline](https://www.kaggle.com/code/ashwinupadhyay/llm-preference-measured-cpu-baseline); 19 confirmed badges.
 - **[Credly](https://www.credly.com/users/ashwin-upadhyay.d80bc5d2/badges/credly):** Astronomer certifications in Apache Airflow 3 Fundamentals and DAG Authoring.
 
 [Full achievement and badge record](ACHIEVEMENTS.md) · Counts checked October 8, 2026; platform profiles carry the latest totals.
