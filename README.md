@@ -1,37 +1,58 @@
-# 💫 Hello, Greetings:
+# Ashwin Upadhyay
 
-I build reliable, high-throughput MLOps and Generative AI platforms engineering robust solutions from prototype to scalable cloud deployment on AWS, Azure, and OCI. My core strength: orchestrating business-critical data & AI pipelines, automating CI/CD for production ML, and delivering resilient systems across multi-cloud environments.
+**AI Systems Engineer · LLM Applications · Backend Platforms**
 
-Certified by Oracle, Databricks, Astronomer, and KodeKloud in Generative AI, Airflow, Kubernetes, and Data Science. I design high-performance ETL, RAG, agentic orchestration, and real-time Deep Learning (ViT-LSTM CV, XGBoost SHAP for XAI/Fraud Detection) with advanced stack: Snowflake, PySpark, Airflow (Certified), Kafka, Kubernetes/Docker.
+I build AI applications and the backend systems behind them: retrieval, APIs, data models, authorization, and asynchronous workflows. My work spans Python services, React/TypeScript applications, and PostgreSQL, with a focus on making behavior testable and failures recoverable.
 
-My achievements include:
+Currently a **Founding AI Engineer at Sylox**, working on data privacy and AI systems. I carry features from requirements and system design through implementation, review, testing, and release.
 
-Multi-cloud ETL automation integrating Kafka/Snowflake, reducing latency from 30 to 5 mins.
+[LinkedIn](https://www.linkedin.com/in/wtfashwin/) · [Portfolio](https://wtfashwin.github.io/Portfolio/) · [Email](mailto:ashwinupadhyay09@gmail.com)
 
-Architected ViT-LSTM pipeline for real-time Computer Vision (SHAR) on Kubernetes.
+## Recent work
 
-Built fraud detection dashboards with XGBoost/SHAP/AUC 0.98, deployed via Flask & Power BI.
+- **Data privacy:** sensitive-data classification using regex, Presidio NER, checksum validation, context signals, and human review; FastAPI, React/TypeScript, and PostgreSQL.
+- **Backend reliability:** test recovery, Alembic migration consolidation, authentication fixes, and CI checks that block failing changes.
+- **Secure integrations:** Microsoft 365 and Google Workspace connections, encrypted credentials, API authorization, and tenant-aware controls.
+- **LLM applications:** legal-document retrieval and grounded answers; provider-agnostic verification services; a conversational analytics prototype with read-only SQL validation.
+- **System design:** proposed customer-hosted scanning and resumable job execution, with explicit source lineage and evidence storage.
 
-Ranked Top 9.82% on LeetCode (1700+ problems). Team Lead at Smart India Hackathon.
+These are professional work summaries. Employer source code is not included here; proposed architecture is described as proposed.
 
-I'm actively seeking high-impact MLOps Engineer, Data Platform Specialist, or AI/ML Systems Engineer roles global product teams. Let’s connect to talk data ecosystems, ML engineering, and GenAI commercialization.
+## Selected public projects
 
+| Project | Focus |
+| --- | --- |
+| [Customer Support System](https://github.com/wtfashwin/Customer-Support-System) | FastAPI AI service, RAG, LangGraph tool workflows, streaming, and a TypeScript application. [Agent workflow PR](https://github.com/wtfashwin/Customer-Support-System/pull/5) · [Request tracing PR](https://github.com/wtfashwin/Customer-Support-System/pull/8) |
+| [Context Dock](https://github.com/wtfashwin/ContextDock) | Native macOS developer tool built with Swift, SwiftUI, and AppKit; local task context, agent events, and decision journaling. |
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wtfashwin/) ([![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wtfashwin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wtfashwin) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wtfashwin) 
+## Selected merged contributions
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+I contribute fixes where correctness, resource use, or security breaks down. **11 merged PRs across seven upstream projects**, with selected changes below.
 
-[![pages-build-deployment](https://github.com/wtfashwin/Portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/wtfashwin/Portfolio/actions/workflows/pages/pages-build-deployment)
+| Project | Contribution |
+| --- | --- |
+| [Prefect](https://github.com/PrefectHQ/prefect/pull/22035) | Allow Azure Blob result storage to overwrite on rewrite. |
+| [dlt](https://github.com/dlt-hub/dlt/pull/3947) | Ingest Parquet row groups individually to bound ADBC driver memory use. |
+| [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/10974) | Stop PromQL `integrate()` from extrapolating past the end of a series. |
+| [Unsloth](https://github.com/unslothai/unsloth/pull/5651) | Hide non-matching chat threads in search. |
+| [Langfuse Python SDK](https://github.com/langfuse/langfuse-python/pull/1664) | Add compatibility with `wrapt` 2.x. |
+| [Tracecat](https://github.com/TracecatHQ/tracecat/pull/2715) | Add `_source` field filtering to Elastic Security detection queries. |
+| [lollms-webui](https://github.com/ParisNeo/lollms-webui/pull/690) | Harden path sanitization against traversal with regression tests. |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wtfashwin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+[Complete OSS record: merged, open, and closed submissions](OPEN_SOURCE.md) · [Live merged PRs](https://github.com/search?q=author%3Awtfashwin+is%3Apr+is%3Amerged+-user%3Awtfashwin&type=pullrequests)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Core tools
 
----
-[![](https://visitcount.itsvg.in/api?id=wtfashwin&icon=0&color=0)](https://visitcount.itsvg.in)
+**Backend & data:** Python, SQL, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Redis, Celery, Parquet
+**AI applications:** RAG, LangGraph, LangChain, embeddings, reranking, retrieval evaluation
+**Application & delivery:** React, TypeScript, Docker, GitHub Actions, pytest, OpenTelemetry
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Achievements & credentials
+
+- **[LeetCode](https://leetcode.com/u/wtfashwin/):** 923 problems solved, including 155 hard; contest rating 1,752; 32 earned badges.
+- **[Kaggle](https://www.kaggle.com/ashwinupadhyay):** reproducible ML experiments, including an [LLM preference CPU baseline](https://www.kaggle.com/code/ashwinupadhyay/llm-preference-measured-cpu-baseline); 15 profile badges.
+- **[Credly](https://www.credly.com/users/ashwin-upadhyay.d80bc5d2/badges/credly):** Astronomer certifications in Apache Airflow 3 Fundamentals and DAG Authoring.
+
+[Full achievement and badge record](ACHIEVEMENTS.md) · Counts checked October 8, 2026; platform profiles carry the latest totals.
+
+I’m interested in AI systems and backend engineering roles where ownership includes system design, implementation, and verification.
