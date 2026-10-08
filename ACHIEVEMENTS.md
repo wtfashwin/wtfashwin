@@ -139,4 +139,6 @@ Sources: [Twine profile](https://www.twine.net/AshwinUpadhyay) and [Collective p
 
 ## Find my work
 
+GitHub also displays Pull Shark ×2, Pair Extraordinaire, YOLO, and Quickdraw. These platform activity badges are separate from engineering outcomes; see the [GitHub achievement panel](https://github.com/wtfashwin?tab=achievements).
+
 [GitHub](https://github.com/wtfashwin) · [Portfolio](https://wtfashwin.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/wtfashwin/) · [LeetCode](https://leetcode.com/u/wtfashwin/) · [Kaggle](https://www.kaggle.com/ashwinupadhyay) · [Credly](https://www.credly.com/users/ashwin-upadhyay.d80bc5d2/badges/credly) · [Codolio](https://codolio.com/profile/wtfashwin)

@@ -44,7 +44,9 @@ I contribute fixes where correctness, resource use, or security breaks down. **1
 ## Core tools
 
 **Backend & data:** Python, SQL, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Redis, Celery, Parquet
+
 **AI applications:** RAG, LangGraph, LangChain, embeddings, reranking, retrieval evaluation
+
 **Application & delivery:** React, TypeScript, Docker, GitHub Actions, pytest, OpenTelemetry
 
 ## Achievements & credentials
