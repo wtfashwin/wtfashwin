@@ -6,11 +6,13 @@
 
 I build AI applications and the backend systems behind them: retrieval, APIs, data models, authorization, and asynchronous workflows. I work with Python, React/TypeScript, and PostgreSQL, with a focus on testable behavior and recoverable failures.
 
+I’m curious about how systems work, where they break, and what makes them dependable.
+
 Founding AI Engineer at Sylox. I carry work from requirements and system design through implementation, review, testing, and release.
 
 [Portfolio](https://wtfashwin.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/wtfashwin/) · [Email](mailto:ashwinupadhyay09@gmail.com)
 
-## Selected public projects
+## Projects
 
 | Project | What to explore |
 | --- | --- |
@@ -18,7 +20,7 @@ Founding AI Engineer at Sylox. I carry work from requirements and system design 
 | [ContextDock](https://github.com/wtfashwin/ContextDock) | A native macOS developer tool built with Swift, SwiftUI, and AppKit for thought capture, plan selection, CLI-agent launches, local events, and Obsidian notes. |
 | [Portfolio](https://github.com/wtfashwin/Portfolio) | React and Three.js presentation of public work, with source links, technical writing, and static profile exports. |
 
-## Selected merged contributions
+## Open-source contributions
 
 My upstream changes focus on correctness, resource use, compatibility, and security.
 
