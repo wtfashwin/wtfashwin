@@ -19,7 +19,7 @@ Founding AI Engineer at Sylox. I carry work from requirements and system design 
 | [Customer Support System](https://github.com/wtfashwin/Customer-Support-System) | A Next.js application, Hono API, PostgreSQL data layer, and separate FastAPI service for retrieval, streaming chat, and tool workflows. [Fresh setup and checks](https://github.com/wtfashwin/Customer-Support-System/pull/12) |
 | [ContextDock](https://github.com/wtfashwin/ContextDock) | A native macOS developer tool built with Swift, SwiftUI, and AppKit for thought capture, plan selection, CLI-agent launches, local events, and Obsidian notes. [Build and tests](https://github.com/wtfashwin/ContextDock/actions/runs/38643769670) |
 | [Portfolio](https://github.com/wtfashwin/Portfolio) | React and Three.js presentation of public work, with source links, technical writing, and static profile exports. |
-| [Fraud Detection](https://github.com/wtfashwin/fraud-detection) | Fraud prediction API, background explanation jobs, a browser demo, and a training pipeline with [verified tests and container checks](https://github.com/wtfashwin/fraud-detection/actions/runs/38635117727). |
+| [Fraud Detection](https://github.com/wtfashwin/fraud-detection) | FastAPI scoring prototype with Celery explanations, PostgreSQL, Redis, and a browser demo. [Hosted tests and container checks](https://github.com/wtfashwin/fraud-detection/actions/runs/38688109974). Separate historical benchmarks do not establish the packaged model’s accuracy. |
 
 ## Open-source contributions
 
