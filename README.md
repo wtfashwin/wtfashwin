@@ -10,13 +10,10 @@ I’m curious about how systems work, where they break, and what makes them depe
 
 Founding AI Engineer at Sylox. I carry work from requirements and system design through implementation, review, testing, and release.
 
+Have a time to go through my portfolio:
+
 [Portfolio](https://wtfashwin.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/wtfashwin/) · [Email](mailto:ashwinupadhyay09@gmail.com)
 
-## Paid project enquiries
-
-I’m interested in paid Python backend, data-integration, and regression-testing work. [Email me](mailto:ashwinupadhyay09@gmail.com?subject=Python%20project%20enquiry) with the problem, relevant stack, and what a successful fix should do. Scope, availability, and fee are agreed before work starts.
-
-[Python storage fix and regression test](https://github.com/PrefectHQ/prefect/pull/22035) · [MSSQL Parquet loading fix](https://github.com/dlt-hub/dlt/pull/3947)
 
 ## Projects
 
