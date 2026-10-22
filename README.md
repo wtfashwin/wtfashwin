@@ -12,7 +12,7 @@ Founding AI Engineer at Sylox. I carry work from requirements and system design 
 
 Have a time to go through my portfolio:
 
-[Portfolio](https://wtfashwin.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/wtfashwin/) · [Email](mailto:ashwinupadhyay09@gmail.com)
+[Portfolio](https://wtfashwin.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/upadhyayashwin/) · [Email](mailto:ashwinupadhyay09@gmail.com)
 
 
 ## Projects
