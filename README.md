@@ -20,6 +20,7 @@ Have a time to go through my portfolio:
 | Project | What to explore |
 | --- | --- |
 | [Invoice Followup](https://invoice-followup.zany-hippo-3715.chatgpt.site/) | Free browser-based invoice follow-up queue and editable payment reminders, with CSV import/export. No account or automatic sending. [Source](https://github.com/wtfashwin/invoice-followup) |
+| [CSV Reporting Example](https://wtfashwin.github.io/Portfolio/reporting-example/) | Reproducible Python example that checks two fictional CSV inputs and produces a six-metric report with a calculation receipt. Synthetic data; no live integration or customer results. [Source](https://github.com/wtfashwin/csv-report-pilot) |
 | [Customer Support System](https://github.com/wtfashwin/Customer-Support-System) | A Next.js application, Hono API, PostgreSQL data layer, and separate FastAPI service for retrieval, streaming chat, and tool workflows. [Fresh setup and checks](https://github.com/wtfashwin/Customer-Support-System/pull/12) |
 | [ContextDock](https://github.com/wtfashwin/ContextDock) | A native macOS developer tool built with Swift, SwiftUI, and AppKit for thought capture, plan selection, CLI-agent launches, local events, and Obsidian notes. [Build and tests](https://github.com/wtfashwin/ContextDock/actions/runs/38643769670) |
 | [Portfolio](https://github.com/wtfashwin/Portfolio) | React and Three.js presentation of public work, with source links, technical writing, and static profile exports. |
