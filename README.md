@@ -28,7 +28,7 @@ Explore my portfolio:
 
 ## Small reproducible examples
 
-- [CSV boundaries: IDs, units, blanks and dates](https://gist.github.com/wtfashwin/aca8c85f3d6d3da1374c5f1e4945c075) — Preserve identifiers, use integer paise, distinguish unknown discounts from zero, and check reporting dates. Five synthetic rows, six behavior tests, and repeated-snapshot verification.
+- [CSV boundaries: IDs, units, blanks and dates](https://gist.github.com/wtfashwin/aca8c85f3d6d3da1374c5f1e4945c075) — Preserve identifiers, use integer paise, distinguish unknown discounts from zero, and check reporting dates. Five synthetic rows, executable behavior checks, and repeated-snapshot verification.
 - [Airflow: one retry in the same DAG run](https://gist.github.com/wtfashwin/1997b331f3a4a5dc17c621ee3bd97f3a) — Inspect an intentional first-attempt failure and its retry in a synthetic Airflow 3 DAG. Includes pure-function tests, setup notes, and a dated local runtime account.
 
 ## Open-source contributions
