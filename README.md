@@ -10,7 +10,7 @@ I’m curious about how systems work, where they break, and what makes them depe
 
 Founding AI Engineer at Sylox. I carry work from requirements and system design through implementation, review, testing, and release.
 
-Have a time to go through my portfolio:
+Explore my portfolio:
 
 [Portfolio](https://wtfashwin.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/upadhyayashwin/) · [Email](mailto:ashwinupadhyay09@gmail.com)
 
@@ -23,8 +23,13 @@ Have a time to go through my portfolio:
 | [CSV Reporting Example](https://wtfashwin.github.io/Portfolio/reporting-example/) | Reproducible Python example that checks two fictional CSV inputs and produces a six-metric report with a calculation receipt. Synthetic data; no live integration or customer results. [Source](https://github.com/wtfashwin/csv-report-pilot) |
 | [Customer Support System](https://github.com/wtfashwin/Customer-Support-System) | A Next.js application, Hono API, PostgreSQL data layer, and separate FastAPI service for retrieval, streaming chat, and tool workflows. [Fresh setup and checks](https://github.com/wtfashwin/Customer-Support-System/pull/12) |
 | [ContextDock](https://github.com/wtfashwin/ContextDock) | A native macOS developer tool built with Swift, SwiftUI, and AppKit for thought capture, plan selection, CLI-agent launches, local events, and Obsidian notes. [Build and tests](https://github.com/wtfashwin/ContextDock/actions/runs/38643769670) |
-| [Portfolio](https://github.com/wtfashwin/Portfolio) | React and Three.js presentation of public work, with source links, technical writing, and static profile exports. |
+| [Portfolio](https://github.com/wtfashwin/Portfolio) | React portfolio with interactive project examples, source links, technical writing, and static profile exports. |
 | [Fraud Detection](https://github.com/wtfashwin/fraud-detection) | FastAPI scoring prototype with Celery explanations, PostgreSQL, Redis, and a browser demo. [Hosted tests and container checks](https://github.com/wtfashwin/fraud-detection/actions/runs/38688109974). Separate historical benchmarks do not establish the packaged model’s accuracy. |
+
+## Small reproducible examples
+
+- [CSV boundaries: IDs, units, blanks and dates](https://gist.github.com/wtfashwin/aca8c85f3d6d3da1374c5f1e4945c075) — Preserve identifiers, use integer paise, distinguish unknown discounts from zero, and check reporting dates. Five synthetic rows, six behavior tests, and repeated-snapshot verification.
+- [Airflow: one retry in the same DAG run](https://gist.github.com/wtfashwin/1997b331f3a4a5dc17c621ee3bd97f3a) — Inspect an intentional first-attempt failure and its retry in a synthetic Airflow 3 DAG. Includes pure-function tests, setup notes, and a dated local runtime account.
 
 ## Open-source contributions
 
