@@ -31,6 +31,8 @@ Explore my portfolio:
 - [CSV boundaries: IDs, units, blanks and dates](https://gist.github.com/wtfashwin/aca8c85f3d6d3da1374c5f1e4945c075) — Preserve identifiers, use integer paise, distinguish unknown discounts from zero, and check reporting dates. Five synthetic rows, executable behavior checks, and repeated-snapshot verification.
 - [Airflow: one retry in the same DAG run](https://gist.github.com/wtfashwin/1997b331f3a4a5dc17c621ee3bd97f3a) — Inspect an intentional first-attempt failure and its retry in a synthetic Airflow 3 DAG. Includes pure-function tests, setup notes, and a dated local runtime account.
 
+- [API body limits and correlation headers](https://gist.github.com/wtfashwin/864824eb480b0f01a13bb2d057447ea7) — Run three synthetic requests against pinned FastAPI source, checking status, headers and observed effects with fixed scoring/queue doubles and in-memory SQLite.
+
 ## Open-source contributions
 
 My upstream changes focus on correctness, resource use, compatibility, and security.
