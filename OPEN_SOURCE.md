@@ -2,7 +2,7 @@
 
 I work on the machinery around AI and data systems: storage, execution, permissions, monitoring, and recovery. My upstream changes address memory exhaustion, misleading calculations, unsafe defaults, compatibility, and user-facing failures.
 
-Public GitHub search checked October 8, 2026. This is a record of visible activity under `wtfashwin`, not a guaranteed lifetime census. Repeated submissions count as separate PRs.
+The count snapshot below was checked October 8, 2026. Later verified contributions are recorded in dated updates. This is a record of visible activity under `wtfashwin`, not a guaranteed lifetime census. Repeated submissions count as separate PRs.
 
 | Public activity | Count |
 | --- | --- |
@@ -13,7 +13,16 @@ Public GitHub search checked October 8, 2026. This is a record of visible activi
 | Issues opened outside my account | 5 |
 | Other issue discussions commented on | 16 |
 
-## Accepted upstream changes
+## Verified update: October 27, 2026
+
+Two Talos Python SDK contributions were merged upstream by the maintainer on October 24:
+
+- [#5: restore standalone SDK lint and test setup](https://github.com/talosprotocol/talos-sdk-py/pull/5), merged at 08:30 UTC. Lint and Test checks passed on the exact PR head `79b1d41440f10228d903a6c67ea8d8fd45e55b8a`.
+- [#3: accept unspaced SSE fields and skip empty data](https://github.com/talosprotocol/talos-sdk-py/pull/3), merged at 08:32 UTC.
+
+The separate [conformance import PR #4](https://github.com/talosprotocol/talos-sdk-py/pull/4) was closed without merging. These specific statuses were read back from GitHub on October 27; the October 8 counts above remain a historical snapshot.
+
+## Accepted upstream changes: October 8 snapshot
 
 The merged changes are the strongest evidence of accepted engineering work.
 
@@ -31,9 +40,9 @@ The merged changes are the strongest evidence of accepted engineering work.
 | ParisNeo/lollms-webui | [#689 — docs: fix unfilled placeholders in CONTRIBUTING.md](https://github.com/ParisNeo/lollms-webui/pull/689) |
 | ParisNeo/lollms-webui | [#688 — security: disable code execution by default in shipped config](https://github.com/ParisNeo/lollms-webui/pull/688) |
 
-## Open submissions
+## Open submissions: October 8 snapshot
 
-These are proposed changes, not accepted upstream fixes.
+These submissions were open in the October 8 snapshot. Their linked PRs show any later outcome.
 
 | Project | Pull request |
 | --- | --- |
